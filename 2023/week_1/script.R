@@ -1,5 +1,0 @@
-library(tidyverse)
-library(paletteer)
-library(showtext)
-library(ggimage)
-library(MetBerwer)
