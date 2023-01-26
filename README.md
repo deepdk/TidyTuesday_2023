@@ -2,7 +2,14 @@
 Tidy Tuesday plots for 2023
 
 
+[week_4 Alone](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_4)
+
+![image](https://user-images.githubusercontent.com/31981663/214848593-0bd6c216-3a52-4c9d-8d48-2a83a1d034f1.png)
+
+
+
 [week_3 Art History](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_3)
+
 ![image](https://user-images.githubusercontent.com/31981663/212908972-246fbf6a-6ec8-403a-805f-51f6462cb982.png)
 
 ---
