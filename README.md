@@ -2,11 +2,23 @@
 Tidy Tuesday plots for 2023
 
 
+[week_6 Big Tech Stock](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_6)
+
+![image](https://user-images.githubusercontent.com/31981663/217713702-4f500575-d110-4ee6-bf3a-8dc8fea17f60.png)
+
+---
+
+[week_5 Pet Cats in UK](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_5)
+
+![image](https://user-images.githubusercontent.com/31981663/217713604-c89691f1-2521-4691-9f64-14962c0ebcd2.png)
+
+---
+
 [week_4 Alone](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_4)
 
 ![image](https://user-images.githubusercontent.com/31981663/214848593-0bd6c216-3a52-4c9d-8d48-2a83a1d034f1.png)
 
-
+---
 
 [week_3 Art History](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_3)
 
