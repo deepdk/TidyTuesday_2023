@@ -2,6 +2,18 @@
 Tidy Tuesday plots for 2023
 
 
+[week_8 Bob Ross Painting](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_8)
+
+![image](https://user-images.githubusercontent.com/31981663/220509204-7db2e777-b17a-429d-9af3-3e85b429329f.png)
+
+---
+
+[week_7 Hollywood age gaps](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_7)
+
+![image](https://user-images.githubusercontent.com/31981663/220509096-08feec9a-f4c6-4944-b7d6-1bfc07b057fa.png)
+
+---
+
 [week_6 Big Tech Stock](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_6)
 
 ![image](https://user-images.githubusercontent.com/31981663/217713702-4f500575-d110-4ee6-bf3a-8dc8fea17f60.png)
