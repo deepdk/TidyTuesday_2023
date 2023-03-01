@@ -2,6 +2,12 @@
 Tidy Tuesday plots for 2023
 
 
+[week_9 African Language Sentiment](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_%209)
+
+![image](https://user-images.githubusercontent.com/31981663/222044353-e663a28a-6d53-4e50-90e3-23ecc4083b04.png)
+
+---
+
 [week_8 Bob Ross Painting](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_8)
 
 ![image](https://user-images.githubusercontent.com/31981663/220509204-7db2e777-b17a-429d-9af3-3e85b429329f.png)
