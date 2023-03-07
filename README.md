@@ -2,6 +2,12 @@
 Tidy Tuesday plots for 2023
 
 
+[week_10 Numbats in Australia](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_10)
+
+![image](https://user-images.githubusercontent.com/31981663/223449449-6616d909-2b2b-40c4-aafb-c7abc61c8300.png)
+
+---
+
 [week_9 African Language Sentiment](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_%209)
 
 ![image](https://user-images.githubusercontent.com/31981663/222044353-e663a28a-6d53-4e50-90e3-23ecc4083b04.png)
