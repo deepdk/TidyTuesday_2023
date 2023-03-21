@@ -2,6 +2,18 @@
 Tidy Tuesday plots for 2023
 
 
+[week_12 Programming Languages](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_12)
+
+![image](https://user-images.githubusercontent.com/31981663/226524379-98bfa399-080a-4234-aba3-4142e37a9d07.png)
+
+---
+
+[week_11 European Drug Development](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_11)
+
+![image](https://user-images.githubusercontent.com/31981663/226524273-a4f893a9-3286-47b0-a3fa-f77ebd04e5aa.png)
+
+---
+
 [week_10 Numbats in Australia](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_10)
 
 ![image](https://user-images.githubusercontent.com/31981663/223449449-6616d909-2b2b-40c4-aafb-c7abc61c8300.png)
