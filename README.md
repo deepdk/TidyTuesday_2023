@@ -2,6 +2,35 @@
 Tidy Tuesday plots for 2023
 
 
+[week_23 Energy](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_23)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/7f35a298-d877-4608-8f33-c4e38faf2fe1)
+
+---
+
+[week_22 Centenarians](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_22)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/Animation.gif)
+
+---
+
+[week_21 Squirrels](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_21)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/sqirrel.gif)
+
+---
+
+[week_20 Tornados](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_20)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/7599092b-27a7-4c8d-b2fd-d4a7da975f0c)
+
+---
+
+[weeek_18 Portal Project](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_18)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/cd2f57a0-4f64-4ed5-a5b4-f26a92b64a2e)
+
+---
 
 [week_17 London Marathon](https://github.com/deepdk/TidyTuesday---2023/tree/main/2023/week_17)
 
