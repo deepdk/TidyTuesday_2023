@@ -2,6 +2,12 @@
 Tidy Tuesday plots for 2023
 
 
+[week_24 SAFI Survey Data](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_24)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/5ea4ea62-4f74-4c28-a524-e75243db1298)
+
+---
+
 [week_23 Energy](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_23)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/7f35a298-d877-4608-8f33-c4e38faf2fe1)
