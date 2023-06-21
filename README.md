@@ -2,6 +2,12 @@
 Tidy Tuesday plots for 2023
 
 
+[week 25 UFO Sightings](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_25)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/fbb14483-2714-4d19-9c5d-352acf75975d)
+
+---
+
 [week_24 SAFI Survey Data](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_24)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/5ea4ea62-4f74-4c28-a524-e75243db1298)
