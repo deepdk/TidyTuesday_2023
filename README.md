@@ -2,6 +2,12 @@
 Tidy Tuesday plots for 2023
 
 
+[week 26 US populated places](https://github.com/deepdk/TidyTuesday_2023/new/main/2023)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/popular%20places.gif)
+
+---
+
 [week 25 UFO Sightings](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_25)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/fbb14483-2714-4d19-9c5d-352acf75975d)
