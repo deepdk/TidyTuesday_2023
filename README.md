@@ -2,6 +2,18 @@
 Tidy Tuesday plots for 2023
 
 
+[week 28 Global Surface Temperature](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_28)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/f46173b0-867b-4cd5-9d0b-e90b9c5bf2d3)
+
+---
+
+[week 27 Historical Markers in the US](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_27)
+
+![](https://github.com/deepdk/TidyTuesday_2023/raw/main/2023/images/votes%20for%20women_3.gif)
+
+---
+
 [week 26 US populated places](https://github.com/deepdk/TidyTuesday_2023/new/main/2023)
 
 ![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/popular%20places.gif)
