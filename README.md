@@ -2,6 +2,24 @@
 Tidy Tuesday plots for 2023
 
 
+[week 32 Hot Ones](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_32)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/ea6fb1a2-82c6-4a5b-8429-3a268bca7b01)
+
+---
+
+[week 31 US states](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_31)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/c19378d5-62fa-4734-bdab-8b4f12124d18)
+
+---
+
+[week 30 Scurvy](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_30)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/1cc25c22-e5e6-48d3-99b1-3dfad8f01158)
+
+---
+
 [week 28 Global Surface Temperature](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_28)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/f46173b0-867b-4cd5-9d0b-e90b9c5bf2d3)
