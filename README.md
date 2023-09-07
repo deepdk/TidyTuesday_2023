@@ -2,6 +2,24 @@
 Tidy Tuesday plots for 2023
 
 
+[week 36 Union Members in the US](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_36)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/8b9e5895-0f7c-44e6-bbfc-b48f1007166c)
+
+---
+
+[week 34 Regugees](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_34)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/4cbd5b0f-e7d4-4fca-b29a-7b1fea71b986)
+
+---
+
+[week 33 Spam emails](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_33)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/20973eae-b3d0-4dae-9bcd-33d55e3ddfd6)
+
+---
+
 [week 32 Hot Ones](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_32)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/ea6fb1a2-82c6-4a5b-8429-3a268bca7b01)
