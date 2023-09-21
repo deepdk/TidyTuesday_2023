@@ -2,6 +2,18 @@
 Tidy Tuesday plots for 2023
 
 
+[week 38 CRAN Packages](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_38)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/obs_1.gif)
+
+---
+
+[week 37 The Global Human Day](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_37)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/9e323a03-36af-4c41-b6a5-9f75c9a46d84)
+
+---
+
 [week 36 Union Members in the US](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_36)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/8b9e5895-0f7c-44e6-bbfc-b48f1007166c)
