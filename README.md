@@ -2,6 +2,18 @@
 Tidy Tuesday plots for 2023
 
 
+[week 40 US Grants](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_40)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/42742e6b-ff56-470e-8d57-91b9a5d2019e)
+
+---
+
+[week 39 Roy Kent F**K Bombs](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_39)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/6a8a3db2-d2ac-415f-b038-c810a7e20c8d)
+
+---
+
 [week 38 CRAN Packages](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_38)
 
 ![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/obs_1.gif)
