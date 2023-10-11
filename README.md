@@ -2,6 +2,12 @@
 Tidy Tuesday plots for 2023
 
 
+[week 41 Haunted places in the US](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_41)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/23a072d9-36f5-476a-ba7c-affcdad121d5)
+
+---
+
 [week 40 US Grants](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_40)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/42742e6b-ff56-470e-8d57-91b9a5d2019e)
