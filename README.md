@@ -2,6 +2,12 @@
 Tidy Tuesday plots for 2023
 
 
+[week 42 Taylor Swift Data](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_42)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/6ddf7178-3662-4def-b9d1-13691fcee89c)
+
+---
+
 [week 41 Haunted places in the US](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_41)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/23a072d9-36f5-476a-ba7c-affcdad121d5)
