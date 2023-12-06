@@ -2,6 +2,36 @@
 Tidy Tuesday plots for 2023
 
 
+[week 48 Dr. Who](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_48)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/doctor.gif)
+
+---
+
+[Week 47 R Ladies Events](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_47)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/r%20ladies%202.gif)
+
+---
+
+[week 46 Diwali Sales](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_46)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/diwali%20sales.gif)
+
+---
+
+[week 44 Horror Legends](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_44)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/hl.gif)
+
+---
+
+[week 43 Patient Risk Profiles](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_43)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/aab6d0b6-d2f6-44cb-b2b1-cabd29ebd1b6)
+
+---
+
 [week 42 Taylor Swift Data](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_42)
 
 ![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/6ddf7178-3662-4def-b9d1-13691fcee89c)
