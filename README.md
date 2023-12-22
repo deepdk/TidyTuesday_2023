@@ -2,6 +2,18 @@
 Tidy Tuesday plots for 2023
 
 
+[week 50 Holiday Movies](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_50)
+
+![image](https://github.com/deepdk/TidyTuesday_2023/assets/31981663/1d8ab7f6-7760-40d0-b1d2-7a7bc3fbb848)
+
+---
+
+[week 49 Life Expectancy](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_49)
+
+![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/life.gif)
+
+---
+
 [week 48 Dr. Who](https://github.com/deepdk/TidyTuesday_2023/tree/main/2023/week_48)
 
 ![](https://github.com/deepdk/TidyTuesday_2023/blob/main/2023/images/doctor.gif)
